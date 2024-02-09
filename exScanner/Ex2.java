@@ -8,9 +8,9 @@ public class Ex2 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite um valor: ");
         double value = scanner.nextDouble();
-//        double operation = value - 4  * 2 * 100 -56 ? 54 * 18 * 70;
+        double operation = ((value - 4)  * 2 ) * ((100 - (56 + 54)) * 18) * (70 +  22);
 
-//        System.out.println(value + " - 4  * 2 * 100 -56 ? 54 * 18 * 70 = " + operation);
+        System.out.println("((" + value + " - 4)  * 2 ) * ((100 - (56 + 54)) * 18) * (70 +  22) " + operation);
     }
 
 }
