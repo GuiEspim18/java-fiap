@@ -1,3 +1,5 @@
+package exSystemOut;
+
 public class Ex4 {
 	public static void main(String[] args) {
 		int value = 5;

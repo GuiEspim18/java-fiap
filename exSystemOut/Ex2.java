@@ -1,3 +1,5 @@
+package exSystemOut;
+
 public class Ex2 {
 	public static void main(String[] args) {
 		int val = 1500;
