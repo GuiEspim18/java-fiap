@@ -22,7 +22,7 @@ public class Ex1 {
             case 2:
                 int value = scanner.nextInt();
                 double percentage = value * 0.1;
-                System.out.println(value + " - 10% = " + (value - percentage));
+                System.out.println("10 % de " + value + " é " + percentage);
             case 3:
                 categories(scanner);
                 break;
