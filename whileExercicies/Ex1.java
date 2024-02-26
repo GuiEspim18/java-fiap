@@ -62,6 +62,8 @@ public class Ex1 {
 		System.out.println(candidate2 + " teve " + cand2 + " votos");
 		System.out.println(candidate3 + " teve " + cand3 + " votos");
 		System.out.println(candidate4 + " teve " + cand4 + " votos");
+		
+		scanner.close();
 	}
 	
 }
